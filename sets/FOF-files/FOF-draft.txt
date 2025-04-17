@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/101_Heart's Allegiance.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/129_Heart's Allegiance.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Treefolk",
-			"collector_number": "133",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/133_Giving Treefolk.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/165_Giving Treefolk.png"
 			}
 		},
 		{
@@ -25,9 +25,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Bard",
-			"collector_number": "65",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/65_Died Piper.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/81_Died Piper.png"
 			}
 		},
 		{
@@ -35,9 +35,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "20",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/20_Pillager's Remorse.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/26_Pillager's Remorse.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Advisor",
-			"collector_number": "68",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/68_Elderwood Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/84_Elderwood Diplomat.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elephant",
-			"collector_number": "140",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/140_Lovesong Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/173_Lovesong Diplomat.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "19",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/19_Patient Disciple.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/25_Patient Disciple.png"
 			}
 		},
 		{
@@ -85,9 +85,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Wolf Spirit",
-			"collector_number": "136",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/136_Hallowed Huntress.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/168_Hallowed Huntress.png"
 			}
 		},
 		{
@@ -95,9 +95,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "36",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/36_Confident Clairvoyant.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/46_Confident Clairvoyant.png"
 			}
 		},
 		{
@@ -105,9 +105,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Sphinx",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/3_Arnoldi's Secret Weapon.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/4_Arnoldi's Secret Weapon.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "93",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/93_Firespark Mentor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/121_Firespark Mentor.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/78_Rite of Reincarnation.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/97_Rite of Reincarnation.png"
 			}
 		},
 		{
@@ -135,19 +135,19 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/83_Surge of Immortality.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/103_Surge of Immortality.png"
 			}
 		},
 		{
 			"name": "Stoic Hedonist",
 			"rarity": "uncommon",
-			"mana_cost": "{GW}{GW}",
+			"mana_cost": "{G}{W}",
 			"type": "Creature — Elder Satyr",
-			"collector_number": "236",
+			"collector_number": "272",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/236_Stoic Hedonist.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/272_Stoic Hedonist.png"
 			}
 		},
 		{
@@ -155,19 +155,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Cat Cleric",
-			"collector_number": "151",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/151_Arnanthe, Priestess of Vanity.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/190_Arnanthe, Priestess of Vanity.png"
 			}
 		},
 		{
 			"name": "Lovesong Orator",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Bird Druid",
-			"collector_number": "141",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/141_Lovesong Orator.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/174_Lovesong Orator.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "304",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/247_Lovesong Sigil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/304_Lovesong Sigil.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Ape",
-			"collector_number": "181",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/181_Marlón, Masterful Monkey.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/243_Marlón, Masterful Monkey.png"
 			}
 		},
 		{
@@ -195,19 +195,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{U}",
 			"type": "Legendary Creature — Cat Shapeshifter",
-			"collector_number": "188",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/188_Racquel, Adopter of Forms.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/257_Racquel, Adopter of Forms.png"
 			}
 		},
 		{
 			"name": "Bloodroot Scamp",
 			"rarity": "common",
-			"mana_cost": "{3}{BR}",
+			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Demon Berserker",
-			"collector_number": "211",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/211_Bloodroot Scamp.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/202_Bloodroot Scamp.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}{G}",
 			"type": "Legendary Creature — Satyr Berserker",
-			"collector_number": "199",
+			"collector_number": "276",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/199_Timpletunt, Boy Beast.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/276_Timpletunt, Boy Beast.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{UB}",
 			"type": "Creature — Skeleton Spellshaper",
-			"collector_number": "217",
+			"collector_number": "285",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/217_Elderwood Guildmage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/285_Elderwood Guildmage.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{BR}{GU}",
 			"type": "Legendary Creature — Specter Dryad",
-			"collector_number": "215",
+			"collector_number": "284",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/215_Delirion and Desdemondo.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/284_Delirion and Desdemondo.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/9_Council's Conviction.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/11_Council's Conviction.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Imp Shaman",
-			"collector_number": "98",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/98_Frolicking Imps.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/126_Frolicking Imps.png"
 			}
 		},
 		{
@@ -265,19 +265,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "125",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/125_Dance of Life and Death.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/156_Dance of Life and Death.png"
 			}
 		},
 		{
 			"name": "Apely Physician",
 			"rarity": "common",
-			"mana_cost": "{1}{GU}{GU}",
+			"mana_cost": "{1}{G}{U}",
 			"type": "Creature — Ape Doctor",
-			"collector_number": "207",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/207_Apely Physician.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/187_Apely Physician.png"
 			}
 		},
 		{
@@ -285,9 +285,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "32",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/32_Bird of Prey.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/42_Bird of Prey.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "87",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/87_Wormfeast.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/109_Wormfeast.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/103_Lava Launch.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/132_Lava Launch.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Dog",
-			"collector_number": "117",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/117_Yappy Scrapper.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/147_Yappy Scrapper.png"
 			}
 		},
 		{
@@ -325,19 +325,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Bird Cleric",
-			"collector_number": "108",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/108_Sanctum Devotee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/138_Sanctum Devotee.png"
 			}
 		},
 		{
 			"name": "Lovebug",
-			"rarity": "common",
-			"mana_cost": "{1}{G}{W}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "177",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/177_Lovebug.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/171_Lovebug.png"
 			}
 		},
 		{
@@ -345,19 +345,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Faerie",
-			"collector_number": "104",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/104_Manic Pixie.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/133_Manic Pixie.png"
 			}
 		},
 		{
-			"name": "Shordly, Screeching Chef",
+			"name": "Shordlon, Screeching Chef",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Bird Citizen",
-			"collector_number": "24",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/24_Shordly, Screeching Chef.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/34_Shordlon, Screeching Chef.png"
 			}
 		},
 		{
@@ -365,9 +365,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "76",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/76_Newlywed Knights.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/95_Newlywed Knights.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Human Artificer",
-			"collector_number": "45",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/45_Research Developer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/58_Research Developer.png"
 			}
 		},
 		{
@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Noble Wizard",
-			"collector_number": "105",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/105_Noble Firemage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/134_Noble Firemage.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "22",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/22_Sanctum Absolver.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/31_Sanctum Absolver.png"
 			}
 		},
 		{
@@ -405,19 +405,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Skeleton Cleric",
-			"collector_number": "81",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/81_Skeletal Confessor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/101_Skeletal Confessor.png"
 			}
 		},
 		{
 			"name": "Sanctum Elder",
 			"rarity": "common",
-			"mana_cost": "{RG}{RG}",
+			"mana_cost": "{R}{G}",
 			"type": "Creature — Elder Human Cleric",
-			"collector_number": "233",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/233_Sanctum Elder.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/267_Sanctum Elder.png"
 			}
 		},
 		{
@@ -425,9 +425,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "23",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/23_Scrupulous Sentinel.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/33_Scrupulous Sentinel.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Shade",
-			"collector_number": "80",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/80_Shadowy Supervisor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/99_Shadowy Supervisor.png"
 			}
 		},
 		{
@@ -445,19 +445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "147",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/147_Slithering Ancient.png"
-			}
-		},
-		{
-			"name": "Spider Drone",
-			"rarity": "common",
-			"mana_cost": "{1}{UB}",
-			"type": "Artifact Creature — Spider Spy",
-			"collector_number": "235",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/235_Spider Drone.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/182_Slithering Ancient.png"
 			}
 		},
 		{
@@ -465,9 +455,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Cat Assassin",
-			"collector_number": "82",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/82_Springing Slasher.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/102_Springing Slasher.png"
 			}
 		},
 		{
@@ -475,9 +465,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/50_Spurn Advance.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/64_Spurn Advance.png"
 			}
 		},
 		{
@@ -485,9 +475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Legendary Creature — Human Spy",
-			"collector_number": "46",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/46_Sally Secrets, Salacious Stewardess.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/59_Sally Secrets, Salacious Stewardess.png"
 			}
 		},
 		{
@@ -495,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "56",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/56_Twisted Trick.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/71_Twisted Trick.png"
 			}
 		},
 		{
@@ -505,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad Citizen",
-			"collector_number": "149",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/149_Zasporoot Gardener.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/184_Zasporoot Gardener.png"
 			}
 		},
 		{
@@ -515,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "119",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/119_Agricultural Allocation.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/149_Agricultural Allocation.png"
 			}
 		},
 		{
@@ -525,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Knight",
-			"collector_number": "11",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/11_Forerunner of the Sanctum.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/14_Forerunner of the Sanctum.png"
 			}
 		},
 		{
@@ -535,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "96",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/96_Forerunner of the Syndicate.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/124_Forerunner of the Syndicate.png"
 			}
 		},
 		{
@@ -545,9 +535,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant Druid",
-			"collector_number": "130",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/130_Forerunner of the Coven.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/163_Forerunner of the Coven.png"
 			}
 		},
 		{
@@ -555,9 +545,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Cat Pirate Mercenary",
-			"collector_number": "70",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/70_Forerunner of the Council.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/86_Forerunner of the Council.png"
 			}
 		},
 		{
@@ -565,9 +555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird Scout",
-			"collector_number": "39",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/39_Forerunner of the Collective.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/51_Forerunner of the Collective.png"
 			}
 		},
 		{
@@ -575,9 +565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "135",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/135_Growing Bond.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/167_Growing Bond.png"
 			}
 		},
 		{
@@ -585,9 +575,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "16",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/16_Inalienable Bond.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/19_Inalienable Bond.png"
 			}
 		},
 		{
@@ -595,9 +585,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "15",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/15_Hunky Medic.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/18_Hunky Medic.png"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "72",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/72_Horrific Bond.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/89_Horrific Bond.png"
 			}
 		},
 		{
@@ -615,9 +605,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/14_Heavenly Ascension.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/17_Heavenly Ascension.png"
 			}
 		},
 		{
@@ -625,9 +615,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Ape",
-			"collector_number": "134",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/134_Gorilla King.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/166_Gorilla King.png"
 			}
 		},
 		{
@@ -635,9 +625,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "99",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/99_Goblin Gathering.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/127_Goblin Gathering.png"
 			}
 		},
 		{
@@ -645,9 +635,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/97_Fresh Start.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/125_Fresh Start.png"
 			}
 		},
 		{
@@ -655,19 +645,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Faerie Spy",
-			"collector_number": "38",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/38_Flighty Informants.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/50_Flighty Informants.png"
 			}
 		},
 		{
 			"name": "Magnetic Magpies",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}{B}{R}",
+			"mana_cost": "{1}{W}{U}{B}{R}",
 			"type": "Artifact Creature — Bird Spy",
-			"collector_number": "179",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/179_Magnetic Magpies.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/242_Magnetic Magpies.png"
 			}
 		},
 		{
@@ -675,9 +665,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Merfolk Spy",
-			"collector_number": "54",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/54_Syndicate Devotee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/69_Syndicate Devotee.png"
 			}
 		},
 		{
@@ -685,9 +675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "313",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/255_Artisan's Courtyard.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/313_Artisan's Courtyard.png"
 			}
 		},
 		{
@@ -695,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "314",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/256_Backalley Exchange.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/314_Backalley Exchange.png"
 			}
 		},
 		{
@@ -705,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "315",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/258_Bloodroot Thicket.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/315_Bloodroot Thicket.png"
 			}
 		},
 		{
@@ -715,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "317",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/261_Chaste Chapel.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/317_Chaste Chapel.png"
 			}
 		},
 		{
@@ -725,9 +715,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "316",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/260_Buzzing Saloon.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/316_Buzzing Saloon.png"
 			}
 		},
 		{
@@ -735,9 +725,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "321",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/267_Mortuary Archives.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/321_Mortuary Archives.png"
 			}
 		},
 		{
@@ -745,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "322",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/269_Parliament Gates.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/322_Parliament Gates.png"
 			}
 		},
 		{
@@ -755,19 +745,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "324",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/271_Public Park.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/324_Public Park.png"
 			}
 		},
 		{
-			"name": "Ritual Grounds",
+			"name": "Ritual Encampment",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "325",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/272_Ritual Grounds.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/325_Ritual Encampment.png"
 			}
 		},
 		{
@@ -775,9 +765,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "280",
+			"collector_number": "328",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/280_Whispering Woods.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/328_Whispering Woods.png"
 			}
 		},
 		{
@@ -785,29 +775,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "189",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/189_Remdesivir the Implanter.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/259_Remdesivir the Implanter.png"
 			}
 		},
 		{
 			"name": "Tavern Brawl",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "111",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/111_Tavern Brawl.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/141_Tavern Brawl.png"
 			}
 		},
 		{
-			"name": "Knight of the Scorvalant Order",
+			"name": "Velkrom of the Scorvalant Order",
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Insect Cleric Assassin Knight",
-			"collector_number": "176",
+			"type": "Legendary Creature — Insect Assassin Knight",
+			"collector_number": "278",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/176_Knight of the Scorvalant Order.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/278_Velkrom of the Scorvalant Order.png"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Creature — Elder Dragon",
-			"collector_number": "165",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/165_Desecrator Dragon.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/214_Desecrator Dragon.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "113",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/113_Unflinching Heroics.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/143_Unflinching Heroics.png"
 			}
 		},
 		{
@@ -835,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Legendary Creature — Elf Bard",
-			"collector_number": "159",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/159_Chleor, Resplendent Bard.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/206_Chleor, Resplendent Bard.png"
 			}
 		},
 		{
@@ -845,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/35_Complex Superiority.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/45_Complex Superiority.png"
 			}
 		},
 		{
@@ -855,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Creature — Dog Artificer",
-			"collector_number": "162",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/162_Confido, Old Dog.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/210_Confido, Old Dog.png"
 			}
 		},
 		{
@@ -865,9 +855,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Goblin Wizard",
-			"collector_number": "94",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/94_Flickerflame Jester.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/122_Flickerflame Jester.png"
 			}
 		},
 		{
@@ -875,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "318",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/262_Evolving Wilds.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/318_Evolving Wilds.png"
 			}
 		},
 		{
@@ -885,9 +875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "323",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/270_Pastoral Sanctuary.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/323_Pastoral Sanctuary.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "278",
+			"collector_number": "327",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/278_Unbridled Wildwood.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/327_Unbridled Wildwood.png"
 			}
 		},
 		{
@@ -905,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "274",
+			"collector_number": "326",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/274_Severed Spires.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/326_Severed Spires.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "319",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/265_Harmonious Utopia.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/319_Harmonious Utopia.png"
 			}
 		},
 		{
@@ -925,109 +915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "312",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/254_Abundant Oasis.png"
-			}
-		},
-		{
-			"name": "Blood Crypt",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
-			"collector_number": "257",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/257_Blood Crypt.png"
-			}
-		},
-		{
-			"name": "Breeding Pool",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Island",
-			"collector_number": "259",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/259_Breeding Pool.png"
-			}
-		},
-		{
-			"name": "Godless Shrine",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "263",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/263_Godless Shrine.png"
-			}
-		},
-		{
-			"name": "Hallowed Fountain",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Island",
-			"collector_number": "264",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/264_Hallowed Fountain.png"
-			}
-		},
-		{
-			"name": "Overgrown Tomb",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Forest",
-			"collector_number": "268",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/268_Overgrown Tomb.png"
-			}
-		},
-		{
-			"name": "Sacred Foundry",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "273",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/273_Sacred Foundry.png"
-			}
-		},
-		{
-			"name": "Steam Vents",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Island Mountain",
-			"collector_number": "275",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/275_Steam Vents.png"
-			}
-		},
-		{
-			"name": "Stomping Ground",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Forest",
-			"collector_number": "276",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/276_Stomping Ground.png"
-			}
-		},
-		{
-			"name": "Temple Garden",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Plains",
-			"collector_number": "277",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/277_Temple Garden.png"
-			}
-		},
-		{
-			"name": "Watery Grave",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Island Swamp",
-			"collector_number": "279",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/279_Watery Grave.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/312_Abundant Oasis.png"
 			}
 		},
 		{
@@ -1035,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Cyclist",
-			"collector_number": "26",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/26_Sunbathed Cyclist.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/36_Sunbathed Cyclist.png"
 			}
 		},
 		{
@@ -1045,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Enchantment Creature — Squafoon",
-			"collector_number": "51",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/51_Squirmy Squafoon.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/66_Squirmy Squafoon.png"
 			}
 		},
 		{
@@ -1055,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Elemental Boar",
-			"collector_number": "138",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/138_Joshua's Boar.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/170_Joshua's Boar.png"
 			}
 		},
 		{
@@ -1065,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment Creature — Scorpion",
-			"collector_number": "92",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/92_Emberprick Scorpion.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/120_Emberprick Scorpion.png"
 			}
 		},
 		{
@@ -1075,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Leech",
-			"collector_number": "64",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/64_Bogwallow Leech.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/80_Bogwallow Leech.png"
 			}
 		},
 		{
@@ -1085,9 +975,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/4_Banishing Light.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/5_Banishing Light.png"
 			}
 		},
 		{
@@ -1095,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Cat Wizard Advisor",
-			"collector_number": "30",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/30_Arnia, Minister of Downsizing.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/40_Arnia, Minister of Downsizing.png"
 			}
 		},
 		{
@@ -1105,9 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{WU}{BG}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "209",
+			"collector_number": "283",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/209_Arnata and Freidresque.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/283_Arnata and Freidresque.png"
 			}
 		},
 		{
@@ -1115,9 +1005,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Creature — Cat Warrior",
-			"collector_number": "174",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/174_Jaxuar, Ignoble Wretch.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/237_Jaxuar, Ignoble Wretch.png"
 			}
 		},
 		{
@@ -1125,9 +1015,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}{B}",
 			"type": "Legendary Creature — Cat Advisor",
-			"collector_number": "173",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/173_Harmoniarch Arnoldi.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/231_Harmoniarch Arnoldi.png"
 			}
 		},
 		{
@@ -1135,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/126_Destined Duel.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/157_Destined Duel.png"
 			}
 		},
 		{
@@ -1145,9 +1035,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Cat Noble",
-			"collector_number": "160",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/160_Claudine, Bride of Arnoldi.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/208_Claudine, Bride of Arnoldi.png"
 			}
 		},
 		{
@@ -1155,9 +1045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/137_Heroic Intervention.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/169_Heroic Intervention.png"
 			}
 		},
 		{
@@ -1165,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "95",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/95_Fling.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/123_Fling.png"
 			}
 		},
 		{
@@ -1175,9 +1065,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "124",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/124_Claudine's Divided Heart.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/154_Claudine's Divided Heart.png"
 			}
 		},
 		{
@@ -1185,9 +1075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Demon Wizard",
-			"collector_number": "157",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/157_Beastord, Dark Wizard.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/198_Beastord, Dark Wizard.png"
 			}
 		},
 		{
@@ -1195,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Elf Doctor",
-			"collector_number": "6",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/6_Bountiful Healer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/8_Bountiful Healer.png"
 			}
 		},
 		{
@@ -1205,19 +1095,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "63",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/63_Belligerent Sexual Tension.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/78_Belligerent Sexual Tension.png"
 			}
 		},
 		{
 			"name": "Arnestella, Light Witch",
 			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
+			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Creature — Cat Warlock",
-			"collector_number": "153",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/153_Arnestella, Light Witch.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/3_Arnestella, Light Witch.png"
 			}
 		},
 		{
@@ -1225,9 +1115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "60",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/60_Arnestella's Star-Crossed Love.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/75_Arnestella's Star-Crossed Love.png"
 			}
 		},
 		{
@@ -1235,19 +1125,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "25",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/25_Strict Upbringing.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/35_Strict Upbringing.png"
 			}
 		},
 		{
-			"name": "Velkro's Last Target",
+			"name": "Velkro's Last Hit",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "115",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/115_Velkro's Last Target.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/145_Velkro's Last Hit.png"
 			}
 		},
 		{
@@ -1255,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "299",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/244_Erotic Epistle.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/299_Erotic Epistle.png"
 			}
 		},
 		{
@@ -1265,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "116",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/116_Widow's Grief.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/146_Widow's Grief.png"
 			}
 		},
 		{
@@ -1275,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "17",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/17_Induction Officer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/20_Induction Officer.png"
 			}
 		},
 		{
@@ -1295,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Monkey Peasant",
-			"collector_number": "139",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/139_Lovesong Devotee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/172_Lovesong Devotee.png"
 			}
 		},
 		{
@@ -1315,9 +1205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "28",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/28_Windsong.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/38_Windsong.png"
 			}
 		},
 		{
@@ -1325,15 +1215,15 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Instant",
-			"collector_number": "21",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/21_Procession of Purity.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/28_Procession of Purity.png"
 			}
 		},
 		{
 			"name": "Due Process",
 			"rarity": "common",
-			"mana_cost": "{2}{WU}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
 			"collector_number": "216",
 			"image_uris": {
@@ -1365,9 +1255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Zombie Rogue",
-			"collector_number": "77",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/77_Nexocoin Grifter.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/96_Nexocoin Grifter.png"
 			}
 		},
 		{
@@ -1375,19 +1265,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "91",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/91_Chis, Cybercurrency Commando.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/117_Chis, Cybercurrency Commando.png"
 			}
 		},
 		{
 			"name": "Arms Dealer",
 			"rarity": "uncommon",
-			"mana_cost": "{RW}{RW}",
+			"mana_cost": "{R}{W}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "208",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/208_Arms Dealer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/189_Arms Dealer.png"
 			}
 		},
 		{
@@ -1395,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "42",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/42_Nexocoin Integration.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/55_Nexocoin Integration.png"
 			}
 		},
 		{
@@ -1405,9 +1295,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Advisor",
-			"collector_number": "43",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/43_Nexocoin Trader.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/56_Nexocoin Trader.png"
 			}
 		},
 		{
@@ -1425,9 +1315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Human Spy",
-			"collector_number": "44",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/44_Nexus Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/57_Nexus Diplomat.png"
 			}
 		},
 		{
@@ -1435,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Advisor",
-			"collector_number": "8",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/8_Council Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/10_Council Diplomat.png"
 			}
 		},
 		{
@@ -1445,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "109",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/109_Sanctum Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/139_Sanctum Diplomat.png"
 			}
 		},
 		{
@@ -1455,49 +1345,29 @@
 			"rarity": "mythic",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Legendary Creature — Cat Spy",
-			"collector_number": "175",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/175_Josh, Nexus Architect.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/238_Josh, Nexus Architect.png"
 			}
 		},
 		{
 			"name": "Echoes of the Fallen",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "127",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/127_Echoes of the Fallen.png"
-			}
-		},
-		{
-			"name": "Exarch of Inviolable Ordinance",
-			"rarity": "common",
-			"mana_cost": "{W}{U}",
-			"type": "Creature — Cat Soldier",
-			"collector_number": "168",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/168_Exarch of Inviolable Ordinance.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/159_Echoes of the Fallen.png"
 			}
 		},
 		{
 			"name": "Zealous Fervor",
-			"rarity": "common",
-			"mana_cost": "{R}{G}",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "206",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/206_Zealous Fervor.png"
-			}
-		},
-		{
-			"name": "Consecrator of Casualties",
-			"rarity": "common",
-			"mana_cost": "{WB}",
-			"type": "Creature — Insect Cleric",
-			"collector_number": "214",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/214_Consecrator of Casualties.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/185_Zealous Fervor.png"
 			}
 		},
 		{
@@ -1505,16 +1375,16 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "84",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/84_Tragic Trade.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/105_Tragic Trade.png"
 			}
 		},
 		{
 			"name": "Emissary of Resnata",
 			"rarity": "common",
-			"mana_cost": "{2}{GW}{GW}",
-			"type": "Creature — Bird Cleric",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment Creature — Bird Cleric",
 			"collector_number": "219",
 			"image_uris": {
 				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/219_Emissary of Resnata.png"
@@ -1525,19 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Skeleton Knight",
-			"collector_number": "185",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/185_Patricque, Puredeath Paladin.png"
-			}
-		},
-		{
-			"name": "Remote Pilot Trainee",
-			"rarity": "common",
-			"mana_cost": "{1}{RW}{RW}",
-			"type": "Creature — Human Spy",
-			"collector_number": "231",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/231_Remote Pilot Trainee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/252_Patricque, Puredeath Paladin.png"
 			}
 		},
 		{
@@ -1545,29 +1405,29 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Human Spy",
-			"collector_number": "182",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/182_Mind Hacker.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/245_Mind Hacker.png"
 			}
 		},
 		{
 			"name": "Celebrated Soloist",
 			"rarity": "common",
-			"mana_cost": "{1}{UR}",
+			"mana_cost": "{U}{R}",
 			"type": "Creature — Bird Bard",
-			"collector_number": "213",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/213_Celebrated Soloist.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/204_Celebrated Soloist.png"
 			}
 		},
 		{
 			"name": "Winds of Inspiration",
-			"rarity": "common",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Enchantment",
-			"collector_number": "203",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "279",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/203_Winds of Inspiration.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/279_Winds of Inspiration.png"
 			}
 		},
 		{
@@ -1575,9 +1435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "100",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/100_Goblin Mating Ritual.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/128_Goblin Mating Ritual.png"
 			}
 		},
 		{
@@ -1585,9 +1445,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Assassin",
-			"collector_number": "86",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/86_Venomous Diplomat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/108_Venomous Diplomat.png"
 			}
 		},
 		{
@@ -1595,9 +1455,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "27",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/27_Vengeful Lover.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/37_Vengeful Lover.png"
 			}
 		},
 		{
@@ -1605,9 +1465,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Cat Beast",
-			"collector_number": "148",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/148_Tamed Behemoth.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/183_Tamed Behemoth.png"
 			}
 		},
 		{
@@ -1615,9 +1475,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/191_Reverent Resurrection.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/261_Reverent Resurrection.png"
 			}
 		},
 		{
@@ -1625,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{GW}",
 			"type": "Creature — Cat Wizard",
-			"collector_number": "224",
+			"collector_number": "287",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/224_Harmonium Guildmage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/287_Harmonium Guildmage.png"
 			}
 		},
 		{
@@ -1635,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{RG}",
 			"type": "Creature — Human Bard",
-			"collector_number": "226",
+			"collector_number": "288",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/226_Lovesong Guildmage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/288_Lovesong Guildmage.png"
 			}
 		},
 		{
@@ -1645,9 +1505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{WU}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "229",
+			"collector_number": "289",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/229_Nexus Guildmage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/289_Nexus Guildmage.png"
 			}
 		},
 		{
@@ -1655,9 +1515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{BR}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "234",
+			"collector_number": "292",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/234_Sanctum Guildmage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/292_Sanctum Guildmage.png"
 			}
 		},
 		{
@@ -1665,9 +1525,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{R}{G}{W}",
 			"type": "Legendary Creature — God",
-			"collector_number": "184",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/184_Overlord Resoundelle.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/250_Overlord Resoundelle.png"
 			}
 		},
 		{
@@ -1675,9 +1535,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "52",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/52_Stern Analysis.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/67_Stern Analysis.png"
 			}
 		},
 		{
@@ -1685,9 +1545,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Zombie Imp Druid",
-			"collector_number": "67",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/67_Elderwood Devotee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/83_Elderwood Devotee.png"
 			}
 		},
 		{
@@ -1695,9 +1555,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Cat Soldier",
-			"collector_number": "7",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/7_Council Devotee.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/9_Council Devotee.png"
 			}
 		},
 		{
@@ -1705,9 +1565,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "106",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/106_Passionate Bond.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/135_Passionate Bond.png"
 			}
 		},
 		{
@@ -1715,9 +1575,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "49",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/49_Soaring Bond.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/63_Soaring Bond.png"
 			}
 		},
 		{
@@ -1725,9 +1585,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Unicorn",
-			"collector_number": "31",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/31_Banquet Greeter.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/41_Banquet Greeter.png"
 			}
 		},
 		{
@@ -1735,9 +1595,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "34",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/34_Cloud of Comfort.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/44_Cloud of Comfort.png"
 			}
 		},
 		{
@@ -1745,9 +1605,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Sorcery",
-			"collector_number": "57",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/57_Whispering Whirlpool.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/72_Whispering Whirlpool.png"
 			}
 		},
 		{
@@ -1755,9 +1615,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "53",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/53_Stirring Performance.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/68_Stirring Performance.png"
 			}
 		},
 		{
@@ -1765,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie",
-			"collector_number": "69",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/69_Elderwood Thrall.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/85_Elderwood Thrall.png"
 			}
 		},
 		{
@@ -1775,9 +1635,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "102",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/102_Independent Contractor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/131_Independent Contractor.png"
 			}
 		},
 		{
@@ -1785,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "112",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/112_Trial by Fire.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/142_Trial by Fire.png"
 			}
 		},
 		{
@@ -1795,9 +1655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird Archer",
-			"collector_number": "144",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/144_Parakeet Patrol.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/179_Parakeet Patrol.png"
 			}
 		},
 		{
@@ -1805,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Centaur Druid",
-			"collector_number": "123",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/123_Centaur Nurturer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/153_Centaur Nurturer.png"
 			}
 		},
 		{
@@ -1815,9 +1675,9 @@
 			"rarity": "common",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "253",
+			"collector_number": "310",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/253_Scrap Sphinx.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/310_Scrap Sphinx.png"
 			}
 		},
 		{
@@ -1825,39 +1685,29 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Letter",
-			"collector_number": "250",
+			"collector_number": "307",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/250_Nightly News.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/307_Nightly News.png"
 			}
 		},
 		{
 			"name": "Mammoth Seal",
-			"rarity": "common",
-			"mana_cost": "{3}{G}{U}",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Seal",
-			"collector_number": "180",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/180_Mammoth Seal.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/176_Mammoth Seal.png"
 			}
 		},
 		{
-			"name": "Unruly Neighbor",
-			"rarity": "common",
-			"mana_cost": "{4}{B}{R}",
-			"type": "Creature — Elemental Giant Citizen",
-			"collector_number": "200",
+			"name": "Agag, Unruly Neighbor",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Legendary Creature — Elemental Giant",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/200_Unruly Neighbor.png"
-			}
-		},
-		{
-			"name": "Fastidious Fertilizer",
-			"rarity": "common",
-			"mana_cost": "{1}{BG}",
-			"type": "Creature — Cat Druid",
-			"collector_number": "221",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/221_Fastidious Fertilizer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/186_Agag, Unruly Neighbor.png"
 			}
 		},
 		{
@@ -1865,9 +1715,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}{G}",
 			"type": "Creature — Cat Mutant Horror",
-			"collector_number": "201",
+			"collector_number": "277",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/201_Unspeakable Atrocioid.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/277_Unspeakable Atrocioid.png"
 			}
 		},
 		{
@@ -1875,9 +1725,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/128_Fanatical Strength.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/160_Fanatical Strength.png"
 			}
 		},
 		{
@@ -1885,9 +1735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/120_Ancestral Vengeance.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/150_Ancestral Vengeance.png"
 			}
 		},
 		{
@@ -1895,9 +1745,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "240",
+			"collector_number": "295",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/240_Bone Signpost.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/295_Bone Signpost.png"
 			}
 		},
 		{
@@ -1905,9 +1755,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Jellyfish",
-			"collector_number": "242",
+			"collector_number": "297",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/242_Data Dredger.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/297_Data Dredger.png"
 			}
 		},
 		{
@@ -1915,9 +1765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/37_Discredited Research.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/48_Discredited Research.png"
 			}
 		},
 		{
@@ -1925,9 +1775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Artificer",
-			"collector_number": "58",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/58_Worksong Foreman.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/73_Worksong Foreman.png"
 			}
 		},
 		{
@@ -1935,19 +1785,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "320",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/266_Hidden Grotto.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/320_Hidden Grotto.png"
 			}
 		},
 		{
 			"name": "Grotto Bartender",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}{R}",
+			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "172",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/172_Grotto Bartender.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/230_Grotto Bartender.png"
 			}
 		},
 		{
@@ -1955,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Artifact Creature — Angel Soldier",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/18_Nexus Sky Marshal.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/23_Nexus Sky Marshal.png"
 			}
 		},
 		{
@@ -1965,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "59",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/59_Youth-Cursed Mage.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/74_Youth-Cursed Mage.png"
 			}
 		},
 		{
@@ -1975,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/170_Foundry Helix.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/226_Foundry Helix.png"
 			}
 		},
 		{
@@ -1985,19 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Legendary Artifact Creature — Soldier",
-			"collector_number": "12",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/12_General Hoguely.png"
-			}
-		},
-		{
-			"name": "Lovesong Recruiter",
-			"rarity": "rare",
-			"mana_cost": "{GW}",
-			"type": "Creature — Cat Citizen",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/227_Lovesong Recruiter.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/15_General Hoguely.png"
 			}
 		},
 		{
@@ -2005,9 +1845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/10_Duty Beyond Death.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/12_Duty Beyond Death.png"
 			}
 		},
 		{
@@ -2015,29 +1855,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "5",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/5_Bound by Grief.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/7_Bound by Grief.png"
 			}
 		},
 		{
 			"name": "Grizzled Instructor",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{3}{W}",
 			"type": "Creature — Dog Soldier",
-			"collector_number": "13",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/13_Grizzled Instructor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/16_Grizzled Instructor.png"
 			}
 		},
 		{
-			"name": "Young Adult Pyromancer",
+			"name": "Young Pyro-Romancer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "118",
+			"type": "Creature — Human Wizard",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/118_Young Adult Pyromancer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/148_Young Pyro-Romancer.png"
 			}
 		},
 		{
@@ -2053,11 +1893,11 @@
 		{
 			"name": "Encore Elemental",
 			"rarity": "uncommon",
-			"mana_cost": "{UR}{UR}",
+			"mana_cost": "{U}{R}",
 			"type": "Enchantment Creature — Elemental",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/220_Encore Elemental.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/221_Encore Elemental.png"
 			}
 		},
 		{
@@ -2065,29 +1905,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Cat Spy Wizard",
-			"collector_number": "110",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/110_Smokecaster Agent.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/140_Smokecaster Agent.png"
 			}
 		},
 		{
 			"name": "Fawning Flâneur",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Satyr Scout",
-			"collector_number": "129",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/129_Fawning Flâneur.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/13_Fawning Flâneur.png"
 			}
 		},
 		{
 			"name": "Ancestral Consultant",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Cat Spirit",
-			"collector_number": "29",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/29_Ancestral Consultant.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/39_Ancestral Consultant.png"
 			}
 		},
 		{
@@ -2095,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/85_Veil of Suppression.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/107_Veil of Suppression.png"
 			}
 		},
 		{
@@ -2105,9 +1945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Demon Lord",
-			"collector_number": "66",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/66_Ebzeba, Mind Conqueror.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/82_Ebzeba, Mind Conqueror.png"
 			}
 		},
 		{
@@ -2115,9 +1955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Worm Zombie Knight",
-			"collector_number": "88",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/88_Wormrot Knight.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/110_Wormrot Knight.png"
 			}
 		},
 		{
@@ -2125,9 +1965,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Hyena Soldier",
-			"collector_number": "74",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/74_Jester Battalion.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/91_Jester Battalion.png"
 			}
 		},
 		{
@@ -2135,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Creature — Elf Shaman",
-			"collector_number": "71",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/71_Grave Whisperer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/88_Grave Whisperer.png"
 			}
 		},
 		{
@@ -2145,19 +1985,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "75",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/75_Locust Nurturer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/93_Locust Nurturer.png"
 			}
 		},
 		{
 			"name": "Plague of Locusts",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "186",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/186_Plague of Locusts.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/254_Plague of Locusts.png"
 			}
 		},
 		{
@@ -2165,9 +2005,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Insect Cleric",
-			"collector_number": "73",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/73_Inscriptor of Blood.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/90_Inscriptor of Blood.png"
 			}
 		},
 		{
@@ -2175,9 +2015,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "161",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/161_Collective Assembly.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/209_Collective Assembly.png"
 			}
 		},
 		{
@@ -2185,9 +2025,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Enchantment Creature — Bard",
-			"collector_number": "156",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/156_Arya, Living Ballad.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/196_Arya, Living Ballad.png"
 			}
 		},
 		{
@@ -2205,9 +2045,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Cat Angel Soldier",
-			"collector_number": "40",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/40_Judge Jurian X. Kiushner.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/53_Judge Jurian X. Kiushner.png"
 			}
 		},
 		{
@@ -2215,19 +2055,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Cat Wizard",
-			"collector_number": "41",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/41_Mindreader Clerk.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/54_Mindreader Clerk.png"
 			}
 		},
 		{
 			"name": "Brincolops, Prime Combatant",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{R}",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Elder Cyclops",
-			"collector_number": "158",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/158_Brincolops, Prime Combatant.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/115_Brincolops, Prime Combatant.png"
 			}
 		},
 		{
@@ -2235,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Elder Serpent",
-			"collector_number": "55",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/55_Tidecaller Serpent.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/70_Tidecaller Serpent.png"
 			}
 		},
 		{
@@ -2245,9 +2085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "79",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/79_Ruthless Killing.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/98_Ruthless Killing.png"
 			}
 		},
 		{
@@ -2255,9 +2095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/61_Backalley Justice.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/76_Backalley Justice.png"
 			}
 		},
 		{
@@ -2265,9 +2105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/90_Burn in Effigy.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/116_Burn in Effigy.png"
 			}
 		},
 		{
@@ -2275,9 +2115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Bird Knight",
-			"collector_number": "114",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/114_Valiant Veteran.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/144_Valiant Veteran.png"
 			}
 		},
 		{
@@ -2285,9 +2125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Bird Bard",
-			"collector_number": "107",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/107_Prolific Poet.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/136_Prolific Poet.png"
 			}
 		},
 		{
@@ -2295,9 +2135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Cat Lizard Mutant",
-			"collector_number": "145",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/145_Perfected Hybrid.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/180_Perfected Hybrid.png"
 			}
 		},
 		{
@@ -2305,9 +2145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Legendary Creature — Capybara",
-			"collector_number": "142",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/142_Madame Capryelle.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/175_Madame Capryelle.png"
 			}
 		},
 		{
@@ -2315,9 +2155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Legendary Creature — Cat Knight",
-			"collector_number": "89",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/89_Arliana, Flame of Faith.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/113_Arliana, Flame of Faith.png"
 			}
 		},
 		{
@@ -2325,9 +2165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}",
 			"type": "Legendary Planeswalker — Garruk",
-			"collector_number": "132",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/132_Garruk, Calmed Soul.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/164_Garruk, Calmed Soul.png"
 			}
 		},
 		{
@@ -2335,9 +2175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "243",
+			"collector_number": "298",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/243_Elderwood Sigil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/298_Elderwood Sigil.png"
 			}
 		},
 		{
@@ -2345,9 +2185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "302",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/246_Harmonium Sigil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/302_Harmonium Sigil.png"
 			}
 		},
 		{
@@ -2355,9 +2195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "249",
+			"collector_number": "306",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/249_Nexus Sigil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/306_Nexus Sigil.png"
 			}
 		},
 		{
@@ -2365,9 +2205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "252",
+			"collector_number": "309",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/252_Sanctum Sigil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/309_Sanctum Sigil.png"
 			}
 		},
 		{
@@ -2375,9 +2215,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Vedalken Druid",
-			"collector_number": "48",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/48_Smokeshape Mimic.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/62_Smokeshape Mimic.png"
 			}
 		},
 		{
@@ -2385,29 +2225,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Bird Dog",
-			"collector_number": "143",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/143_Ostrich Hound.png"
-			}
-		},
-		{
-			"name": "Gapewood Poacher",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Ranger",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/131_Gapewood Poacher.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/178_Ostrich Hound.png"
 			}
 		},
 		{
 			"name": "Silverscale Paladin",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Knight",
-			"collector_number": "146",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/146_Silverscale Paladin.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/181_Silverscale Paladin.png"
 			}
 		},
 		{
@@ -2415,9 +2245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/122_Bountiful Cycle.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/152_Bountiful Cycle.png"
 			}
 		},
 		{
@@ -2425,9 +2255,9 @@
 			"rarity": "common",
 			"mana_cost": "{2G}{2W}{2U}{2B}",
 			"type": "Creature — Manticore",
-			"collector_number": "150",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/150_Archivist's Familiar.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/188_Archivist's Familiar.png"
 			}
 		},
 		{
@@ -2435,9 +2265,9 @@
 			"rarity": "common",
 			"mana_cost": "{2W}{2U}{2B}{2R}",
 			"type": "Creature — Vedalken Artificer",
-			"collector_number": "204",
+			"collector_number": "280",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/204_Wreckage Reclaimer.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/280_Wreckage Reclaimer.png"
 			}
 		},
 		{
@@ -2445,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{2R}{2G}{2W}{2U}",
 			"type": "Creature — Satyr",
-			"collector_number": "166",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/166_Enchanting Couple.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/220_Enchanting Couple.png"
 			}
 		},
 		{
@@ -2465,9 +2295,9 @@
 			"rarity": "common",
 			"mana_cost": "{2B}{2R}{2G}{2W}",
 			"type": "Creature — Demon Dog",
-			"collector_number": "192",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/192_Righteous Hellhounds.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/263_Righteous Hellhounds.png"
 			}
 		},
 		{
@@ -2475,9 +2305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2U}{2B}{2R}{2G}",
 			"type": "Creature — Demon Beast",
-			"collector_number": "178",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/178_Lurking Dismolaat.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/241_Lurking Dismolaat.png"
 			}
 		},
 		{
@@ -2485,9 +2315,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{UB}{RW}",
 			"type": "Legendary Creature — Human Spy",
-			"collector_number": "218",
+			"collector_number": "286",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/218_Elesta and Elonia.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/286_Elesta and Elonia.png"
 			}
 		},
 		{
@@ -2495,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}{B}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "155",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/155_Arnoldus, Stately Sorceror.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/194_Arnoldus, Stately Sorceror.png"
 			}
 		},
 		{
@@ -2505,9 +2335,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Legendary Creature — Cat Noble",
-			"collector_number": "205",
+			"collector_number": "281",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/205_Young Prince Arnoldito.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/281_Young Prince Arnoldito.png"
 			}
 		},
 		{
@@ -2515,19 +2345,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Enchantment Creature — Faerie",
-			"collector_number": "187",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/187_Poira, Priest of Potlucks.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/255_Poira, Priest of Potlucks.png"
 			}
 		},
 		{
 			"name": "Selemnio, Sanctified Soul",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
+			"rarity": "mythic",
+			"mana_cost": "{W}{B}{G}",
 			"type": "Legendary Creature — Spirit Cleric",
-			"collector_number": "195",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/195_Selemnio, Sanctified Soul.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/269_Selemnio, Sanctified Soul.png"
 			}
 		},
 		{
@@ -2535,19 +2365,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{RG}{WB}",
 			"type": "Legendary Creature — Human Zombie",
-			"collector_number": "230",
+			"collector_number": "290",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/230_Orquinta and Detrimentus.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/290_Orquinta and Detrimentus.png"
 			}
 		},
 		{
 			"name": "Blessed Executioner",
 			"rarity": "uncommon",
-			"mana_cost": "{WB}{WB}",
+			"mana_cost": "{W}{B}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "210",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/210_Blessed Executioner.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/201_Blessed Executioner.png"
 			}
 		},
 		{
@@ -2555,59 +2385,59 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Human Mercenary",
-			"collector_number": "193",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/193_Rue, Reconnaissance Realtor.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/264_Rue, Reconnaissance Realtor.png"
 			}
 		},
 		{
 			"name": "Tesseract Broker",
 			"rarity": "uncommon",
-			"mana_cost": "{UB}{UB}",
-			"type": "Creature — Cat Artificer",
-			"collector_number": "237",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Cat Artificer",
+			"collector_number": "275",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/237_Tesseract Broker.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/275_Tesseract Broker.png"
 			}
 		},
 		{
 			"name": "Homely Hermit",
-			"rarity": "uncommon",
-			"mana_cost": "{GU}{GU}",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
 			"type": "Creature — Demon Druid",
-			"collector_number": "225",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/225_Homely Hermit.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/234_Homely Hermit.png"
 			}
 		},
 		{
 			"name": "Bonfire of Ancestral Bones",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{BR}{BR}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "212",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/212_Bonfire of Ancestral Bones.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/203_Bonfire of Ancestral Bones.png"
 			}
 		},
 		{
 			"name": "Nutrient Cycling",
-			"rarity": "rare",
+			"rarity": "mythic",
 			"mana_cost": "{1}{B}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "183",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/183_Nutrient Cycling.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/248_Nutrient Cycling.png"
 			}
 		},
 		{
 			"name": "Harmoniarch's Decree",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{WU}{WU}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "223",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/223_Harmoniarch's Decree.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/232_Harmoniarch's Decree.png"
 			}
 		},
 		{
@@ -2615,9 +2445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Cat Knight",
-			"collector_number": "152",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/152_Arnecula, Stunning Savior.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/191_Arnecula, Stunning Savior.png"
 			}
 		},
 		{
@@ -2625,9 +2455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Legendary Creature — Cat Wizard",
-			"collector_number": "154",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/154_Arnoldeste, Lord of Light.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/193_Arnoldeste, Lord of Light.png"
 			}
 		},
 		{
@@ -2635,29 +2465,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Legendary Creature — Cat Knight",
-			"collector_number": "171",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/171_Govna, Straxn's Protégé.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/227_Govna, Straxn's Protégé.png"
 			}
 		},
 		{
 			"name": "Grave Recall",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{BG}",
+			"mana_cost": "{2}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "222",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/222_Grave Recall.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/229_Grave Recall.png"
 			}
 		},
 		{
 			"name": "Martyr's Might",
 			"rarity": "uncommon",
-			"mana_cost": "{RG}{RG}",
+			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "228",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/228_Martyr's Might.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/177_Martyr's Might.png"
 			}
 		},
 		{
@@ -2665,9 +2495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}{W}",
 			"type": "Creature — Giraffe",
-			"collector_number": "196",
+			"collector_number": "270",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/196_Siege Giraffe.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/270_Siege Giraffe.png"
 			}
 		},
 		{
@@ -2675,9 +2505,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "169",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/169_Fjorgle, Dire Warrior.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/225_Fjorgle, Dire Warrior.png"
 			}
 		},
 		{
@@ -2685,9 +2515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{GW}{UR}",
 			"type": "Legendary Creature — Elf Bird",
-			"collector_number": "232",
+			"collector_number": "291",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/232_Romion and Mathildah.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/291_Romion and Mathildah.png"
 			}
 		},
 		{
@@ -2695,9 +2525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}{W}",
 			"type": "Legendary Creature — Human Soldier Cleric",
-			"collector_number": "198",
+			"collector_number": "274",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/198_Taint, Crusader of the Veil.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/274_Taint, Crusader of the Veil.png"
 			}
 		},
 		{
@@ -2705,9 +2535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "245",
+			"collector_number": "301",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/245_Harbinger Engine.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/301_Harbinger Engine.png"
 			}
 		},
 		{
@@ -2715,9 +2545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "294",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/239_Arcane Hookah.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/294_Arcane Hookah.png"
 			}
 		},
 		{
@@ -2725,9 +2555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}",
 			"type": "Artifact Creature — Gargoyle",
-			"collector_number": "238",
+			"collector_number": "293",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/238_Arbiter of Gorgugont.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/293_Arbiter of Gorgugont.png"
 			}
 		},
 		{
@@ -2735,9 +2565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Clue",
-			"collector_number": "248",
+			"collector_number": "305",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/248_Machination Machine.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/305_Machination Machine.png"
 			}
 		},
 		{
@@ -2745,9 +2575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "308",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/251_Sacred Chalice.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/308_Sacred Chalice.png"
 			}
 		},
 		{
@@ -2755,9 +2585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall",
-			"collector_number": "241",
+			"collector_number": "296",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/241_Circuit Barrier.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/296_Circuit Barrier.png"
 			}
 		},
 		{
@@ -2765,9 +2595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "163",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/163_Council Assembly.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/211_Council Assembly.png"
 			}
 		},
 		{
@@ -2775,9 +2605,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "164",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/164_Coven Assembly.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/213_Coven Assembly.png"
 			}
 		},
 		{
@@ -2785,9 +2615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "194",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/194_Sanctum Assembly.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/266_Sanctum Assembly.png"
 			}
 		},
 		{
@@ -2795,9 +2625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "197",
+			"collector_number": "273",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/197_Syndicate Assembly.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/273_Syndicate Assembly.png"
 			}
 		},
 		{
@@ -2805,9 +2635,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}{U}",
 			"type": "Legendary Enchantment Creature — Angel",
-			"collector_number": "190",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/190_Resnata, Voice of Harmony.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/260_Resnata, Voice of Harmony.png"
 			}
 		},
 		{
@@ -2815,19 +2645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Elder God",
-			"collector_number": "167",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/167_Eterna, the Elderwood.png"
-			}
-		},
-		{
-			"name": "Velkro, Scorvalant Assassin",
-			"rarity": "mythic",
-			"mana_cost": "{R}{W}{B}",
-			"type": "Legendary Planeswalker — Velkro",
-			"collector_number": "202",
-			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/202_Velkro, Scorvalant Assassin.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/222_Eterna, the Elderwood.png"
 			}
 		},
 		{
@@ -2835,9 +2655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Creature — Cat Advisor",
-			"collector_number": "62",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/62_Balayria, Chancellor of Bats.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/77_Balayria, Chancellor of Bats.png"
 			}
 		},
 		{
@@ -2845,9 +2665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Legendary Creature — Elder Snail",
-			"collector_number": "47",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/47_Samiro, Sassy Snail.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/60_Samiro, Sassy Snail.png"
 			}
 		},
 		{
@@ -2855,9 +2675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Legendary Creature — Elder Bear",
-			"collector_number": "121",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/121_Bobo Bear, Forest Steward.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/151_Bobo Bear, Forest Steward.png"
 			}
 		},
 		{
@@ -2865,32 +2685,682 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Elder Clam Fish",
-			"collector_number": "33",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/33_Blib-Jib, the Immortal.png"
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/43_Blib-Jib, the Immortal.png"
+			}
+		},
+		{
+			"name": "Invictula, Infernal Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Creature — Elk Warlock",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/236_Invictula, Infernal Acolyte.png"
+			}
+		},
+		{
+			"name": "Spectral Manipulator",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}{R}",
+			"type": "Creature — Spirit Spy",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/271_Spectral Manipulator.png"
+			}
+		},
+		{
+			"name": "Morbid Opportunist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/94_Morbid Opportunist.png"
+			}
+		},
+		{
+			"name": "Cultivate",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/155_Cultivate.png"
+			}
+		},
+		{
+			"name": "Extraction Mission",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/224_Extraction Mission.png"
+			}
+		},
+		{
+			"name": "Nexus Commando",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/247_Nexus Commando.png"
+			}
+		},
+		{
+			"name": "Trip Sitter",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Demon Shaman",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/106_Trip Sitter.png"
+			}
+		},
+		{
+			"name": "Prestigious Psychopomp",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/27_Prestigious Psychopomp.png"
+			}
+		},
+		{
+			"name": "Rapture",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Sorcery",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/258_Rapture.png"
+			}
+		},
+		{
+			"name": "Defense Contract",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/119_Defense Contract.png"
+			}
+		},
+		{
+			"name": "Factory Farm",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/300_Factory Farm.png"
+			}
+		},
+		{
+			"name": "Savior of Sinful Souls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Goblin Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/32_Savior of Sinful Souls.png"
+			}
+		},
+		{
+			"name": "Renowned Speaker",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Elephant Advisor",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/30_Renowned Speaker.png"
+			}
+		},
+		{
+			"name": "Siren Celebrities",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Siren Bard",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/61_Siren Celebrities.png"
+			}
+		},
+		{
+			"name": "Hot Tub Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Elemental",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/52_Hot Tub Elemental.png"
+			}
+		},
+		{
+			"name": "Deadline Detonator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/118_Deadline Detonator.png"
+			}
+		},
+		{
+			"name": "Farmer's Commune",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/161_Farmer's Commune.png"
+			}
+		},
+		{
+			"name": "Wretched Child of Krustus",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Crab Demon Knight",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/111_Wretched Child of Krustus.png"
+			}
+		},
+		{
+			"name": "Blind Devotee",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/6_Blind Devotee.png"
+			}
+		},
+		{
+			"name": "Solemn Simulacrum",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/311_Solemn Simulacrum.png"
+			}
+		},
+		{
+			"name": "Ramtamuel, Overlord's Offspring",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}",
+			"type": "Legendary Creature — Demigod Noble",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/29_Ramtamuel, Overlord's Offspring.png"
+			}
+		},
+		{
+			"name": "Benjimus, Prodigal Son",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Noble",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/114_Benjimus, Prodigal Son.png"
+			}
+		},
+		{
+			"name": "Bloodthorn Goliath",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Elder Dryad Horror",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/79_Bloodthorn Goliath.png"
+			}
+		},
+		{
+			"name": "Hellbent Hunter",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Dinosaur Bird",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/130_Hellbent Hunter.png"
+			}
+		},
+		{
+			"name": "Elesta's Calculated Confession",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Enchantment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/49_Elesta's Calculated Confession.png"
+			}
+		},
+		{
+			"name": "Shrimp Spy Network",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Shrimp",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/100_Shrimp Spy Network.png"
+			}
+		},
+		{
+			"name": "Leyline of Machination",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/92_Leyline of Machination.png"
+			}
+		},
+		{
+			"name": "Tenacious Torturer",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Cat Warlock",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/104_Tenacious Torturer.png"
+			}
+		},
+		{
+			"name": "Nexus Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/22_Nexus Sentinel.png"
+			}
+		},
+		{
+			"name": "Elderwood Elder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elder Treefolk",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/217_Elderwood Elder.png"
+			}
+		},
+		{
+			"name": "Lovesong Battle-Choir",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Soldier Bard",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/21_Lovesong Battle-Choir.png"
+			}
+		},
+		{
+			"name": "Orquinta's Undying Love",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/24_Orquinta's Undying Love.png"
+			}
+		},
+		{
+			"name": "Zeexus, Nexus Shadowmaster",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Creature — Human Assassin",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/282_Zeexus, Nexus Shadowmaster.png"
+			}
+		},
+		{
+			"name": "Kingdon, Feathered Sentinel",
+			"rarity": "rare",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Bird Knight",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/239_Kingdon, Feathered Sentinel.png"
+			}
+		},
+		{
+			"name": "Baston, Fex and Rowl",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Legendary Creature — Hyena Soldier",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/197_Baston, Fex and Rowl.png"
+			}
+		},
+		{
+			"name": "Black-Winged Cherubim",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Elder Cat Angel",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/200_Black-Winged Cherubim.png"
+			}
+		},
+		{
+			"name": "Pandemonion the Bloodied",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{W}{B}",
+			"type": "Legendary Creature — Bear Soldier",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/251_Pandemonion the Bloodied.png"
+			}
+		},
+		{
+			"name": "Exarch of Inviolable Ordinance",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Cat Soldier",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/223_Exarch of Inviolable Ordinance.png"
+			}
+		},
+		{
+			"name": "Fastidious Fertilizer",
+			"rarity": "rare",
+			"mana_cost": "{G}",
+			"type": "Creature — Cat Druid",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/162_Fastidious Fertilizer.png"
+			}
+		},
+		{
+			"name": "Dingonous Druid",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Dog Druid",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/158_Dingonous Druid.png"
+			}
+		},
+		{
+			"name": "Raging Earth",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/137_Raging Earth.png"
+			}
+		},
+		{
+			"name": "Iconoclast's Command",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/235_Iconoclast's Command.png"
+			}
+		},
+		{
+			"name": "Spyder Drone",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Spider Spy",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/65_Spyder Drone.png"
+			}
+		},
+		{
+			"name": "Biogenic Plague",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/199_Biogenic Plague.png"
+			}
+		},
+		{
+			"name": "Churno, Charnel Champion",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Legendary Creature — Cat Knight",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/207_Churno, Charnel Champion.png"
+			}
+		},
+		{
+			"name": "Rhondeyla, Robotic Reanimator",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Artifact Creature — Human",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/262_Rhondeyla, Robotic Reanimator.png"
+			}
+		},
+		{
+			"name": "Prospero, Prehistoric Poet",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Creature — Elder Trilobite",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/256_Prospero, Prehistoric Poet.png"
+			}
+		},
+		{
+			"name": "Omesmus, Apocalyptic Omen",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Snake Hydra God",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/249_Omesmus, Apocalyptic Omen.png"
+			}
+		},
+		{
+			"name": "Antoinitto, Master of Fingering",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}",
+			"type": "Legendary Creature — Bird Bard",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/112_Antoinitto, Master of Fingering.png"
+			}
+		},
+		{
+			"name": "Sanctum Siegebreaker",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/268_Sanctum Siegebreaker.png"
+			}
+		},
+		{
+			"name": "Morph DNA",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/246_Morph DNA.png"
+			}
+		},
+		{
+			"name": "Pheonomeno's Firekin",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/253_Pheonomeno's Firekin.png"
+			}
+		},
+		{
+			"name": "Hercule, Restrained Hero",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Creature — Bird Warrior",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/233_Hercule, Restrained Hero.png"
+			}
+		},
+		{
+			"name": "Millenielle, Rogue Agent",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/244_Millenielle, Rogue Agent.png"
+			}
+		},
+		{
+			"name": "Gorgugont, Gargoyle Guru",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Gargoyle Advisor",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/87_Gorgugont, Gargoyle Guru.png"
+			}
+		},
+		{
+			"name": "Celestique, High Priestess",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Cleric",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/205_Celestique, High Priestess.png"
+			}
+		},
+		{
+			"name": "Arnilingus, Slammer Warden",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Cat Soldier",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/192_Arnilingus, Slammer Warden.png"
+			}
+		},
+		{
+			"name": "Elva, Alluring Enchantress",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{R}{W}",
+			"type": "Legendary Enchantment Creature — Harpy",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/218_Elva, Alluring Enchantress.png"
+			}
+		},
+		{
+			"name": "Arven, Head Researcher",
+			"rarity": "mythic",
+			"mana_cost": "{B}{G}{U}",
+			"type": "Legendary Creature — Cat Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/195_Arven, Head Researcher.png"
+			}
+		},
+		{
+			"name": "Grandmother Centipede",
+			"rarity": "mythic",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Elder Insect",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/228_Grandmother Centipede.png"
+			}
+		},
+		{
+			"name": "Doelina, Friend to All",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}{U}",
+			"type": "Legendary Planeswalker — Doelina",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/215_Doelina, Friend to All.png"
+			}
+		},
+		{
+			"name": "Sage of Time",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}{G}",
+			"type": "Creature — Gremlin Shaman",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/265_Sage of Time.png"
+			}
+		},
+		{
+			"name": "Council, to War!",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/212_Council, to War!.png"
+			}
+		},
+		{
+			"name": "Krustus, Intolerant Guardian",
+			"rarity": "mythic",
+			"mana_cost": "{X}{B}{R}{G}{W}",
+			"type": "Legendary Creature — Crab God",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/240_Krustus, Intolerant Guardian.png"
+			}
+		},
+		{
+			"name": "Delusion's Grasp",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/47_Delusion's Grasp.png"
+			}
+		},
+		{
+			"name": "K-9 Unit",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Dog",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://-bamboocityguy-mse-hub/sets/ATR-files/img/303_K-9 Unit.png"
 			}
 		},
 	]
 
 [rare(1)]
+	2 Lovesong Orator
 	2 Marlón, Masterful Monkey
-	2 Shordly, Screeching Chef
+	2 Shordlon, Screeching Chef
 	2 Sally Secrets, Salacious Stewardess
 	2 Magnetic Magpies
-	2 Tavern Brawl
-	2 Knight of the Scorvalant Order
+	2 Velkrom of the Scorvalant Order
 	2 Desecrator Dragon
 	2 Flickerflame Jester
-	2 Blood Crypt
-	2 Breeding Pool
-	2 Godless Shrine
-	2 Hallowed Fountain
-	2 Overgrown Tomb
-	2 Sacred Foundry
-	2 Steam Vents
-	2 Stomping Ground
-	2 Temple Garden
-	2 Watery Grave
 	2 Jaxuar, Ignoble Wretch
 	2 Claudine, Bride of Arnoldi
 	2 Heroic Intervention
@@ -2899,19 +3369,19 @@
 	2 Arnestella, Light Witch
 	2 Arnestella's Star-Crossed Love
 	2 Strict Upbringing
-	2 Velkro's Last Target
+	2 Velkro's Last Hit
 	2 Chis, Cybercurrency Commando
+	2 Winds of Inspiration
 	2 Grotto Bartender
-	2 Lovesong Recruiter
 	2 Fawning Flâneur
-	2 Plague of Locusts
 	2 Collective Assembly
 	2 Arya, Living Ballad
 	2 Judge Jurian X. Kiushner
+	2 Brincolops, Prime Combatant
 	2 Smokeshape Mimic
+	2 Silverscale Paladin
 	2 Young Prince Arnoldito
-	2 Selemnio, Sanctified Soul
-	2 Nutrient Cycling
+	2 Homely Hermit
 	2 Arnoldeste, Lord of Light
 	2 Siege Giraffe
 	2 Council Assembly
@@ -2922,6 +3392,39 @@
 	2 Samiro, Sassy Snail
 	2 Bobo Bear, Forest Steward
 	2 Blib-Jib, the Immortal
+	2 Extraction Mission
+	2 Nexus Commando
+	2 Prestigious Psychopomp
+	2 Rapture
+	2 Factory Farm
+	2 Wretched Child of Krustus
+	2 Blind Devotee
+	2 Solemn Simulacrum
+	2 Benjimus, Prodigal Son
+	2 Bloodthorn Goliath
+	2 Hellbent Hunter
+	2 Elesta's Calculated Confession
+	2 Shrimp Spy Network
+	2 Leyline of Machination
+	2 Tenacious Torturer
+	2 Nexus Sentinel
+	2 Orquinta's Undying Love
+	2 Zeexus, Nexus Shadowmaster
+	2 Kingdon, Feathered Sentinel
+	2 Baston, Fex and Rowl
+	2 Exarch of Inviolable Ordinance
+	2 Fastidious Fertilizer
+	2 Dingonous Druid
+	2 Raging Earth
+	2 Spyder Drone
+	2 Biogenic Plague
+	2 Churno, Charnel Champion
+	2 Rhondeyla, Robotic Reanimator
+	2 Prospero, Prehistoric Poet
+	2 Omesmus, Apocalyptic Omen
+	2 Sanctum Siegebreaker
+	2 Morph DNA
+	2 Pheonomeno's Firekin
 [uncommon(4)]
 	4 Giving Treefolk
 	4 Died Piper
@@ -2930,7 +3433,6 @@
 	4 Lovesong Diplomat
 	4 Stoic Hedonist
 	4 Arnanthe, Priestess of Vanity
-	4 Lovesong Orator
 	4 Lovesong Sigil
 	4 Racquel, Adopter of Forms
 	4 Timpletunt, Boy Beast
@@ -2938,6 +3440,7 @@
 	4 Delirion and Desdemondo
 	4 Council's Conviction
 	4 Lava Launch
+	4 Lovebug
 	4 Newlywed Knights
 	4 Research Developer
 	4 Sanctum Absolver
@@ -2968,6 +3471,7 @@
 	4 Council Diplomat
 	4 Sanctum Diplomat
 	4 Echoes of the Fallen
+	4 Zealous Fervor
 	4 Patricque, Puredeath Paladin
 	4 Goblin Mating Ritual
 	4 Vengeful Lover
@@ -2983,7 +3487,7 @@
 	4 Duty Beyond Death
 	4 Bound by Grief
 	4 Grizzled Instructor
-	4 Young Adult Pyromancer
+	4 Young Pyro-Romancer
 	4 Encore Elemental
 	4 Smokecaster Agent
 	4 Ancestral Consultant
@@ -2994,7 +3498,6 @@
 	4 Grave Whisperer
 	4 Locust Nurturer
 	4 Mindreader Clerk
-	4 Brincolops, Prime Combatant
 	4 Tidecaller Serpent
 	4 Ruthless Killing
 	4 Backalley Justice
@@ -3009,8 +3512,6 @@
 	4 Nexus Sigil
 	4 Sanctum Sigil
 	4 Ostrich Hound
-	4 Gapewood Poacher
-	4 Silverscale Paladin
 	4 Bountiful Cycle
 	4 Elesta and Elonia
 	4 Arnoldus, Stately Sorceror
@@ -3019,7 +3520,6 @@
 	4 Blessed Executioner
 	4 Rue, Reconnaissance Realtor
 	4 Tesseract Broker
-	4 Homely Hermit
 	4 Bonfire of Ancestral Bones
 	4 Harmoniarch's Decree
 	4 Arnecula, Stunning Savior
@@ -3035,6 +3535,15 @@
 	4 Machination Machine
 	4 Sacred Chalice
 	4 Circuit Barrier
+	4 Invictula, Infernal Acolyte
+	4 Morbid Opportunist
+	4 Cultivate
+	4 Savior of Sinful Souls
+	4 Siren Celebrities
+	4 Deadline Detonator
+	4 Elderwood Elder
+	4 Iconoclast's Command
+	4 K-9 Unit
 [common(7)]
 	8 Heart's Allegiance
 	8 Patient Disciple
@@ -3052,14 +3561,12 @@
 	8 Wormfeast
 	8 Yappy Scrapper
 	8 Sanctum Devotee
-	8 Lovebug
 	8 Manic Pixie
 	8 Noble Firemage
 	8 Skeletal Confessor
 	8 Sanctum Elder
 	8 Scrupulous Sentinel
 	8 Shadowy Supervisor
-	8 Spider Drone
 	8 Springing Slasher
 	8 Spurn Advance
 	8 Zasporoot Gardener
@@ -3086,7 +3593,7 @@
 	8 Mortuary Archives
 	8 Parliament Gates
 	8 Public Park
-	8 Ritual Grounds
+	8 Ritual Encampment
 	8 Whispering Woods
 	8 Evolving Wilds
 	8 Sunbathed Cyclist
@@ -3104,15 +3611,10 @@
 	8 Due Process
 	8 Abs of Steel
 	8 Nexocoin Trader
-	8 Exarch of Inviolable Ordinance
-	8 Zealous Fervor
-	8 Consecrator of Casualties
 	8 Tragic Trade
 	8 Emissary of Resnata
-	8 Remote Pilot Trainee
 	8 Mind Hacker
 	8 Celebrated Soloist
-	8 Winds of Inspiration
 	8 Venomous Diplomat
 	8 Tamed Behemoth
 	8 Reverent Resurrection
@@ -3132,9 +3634,6 @@
 	8 Centaur Nurturer
 	8 Scrap Sphinx
 	8 Nightly News
-	8 Mammoth Seal
-	8 Unruly Neighbor
-	8 Fastidious Fertilizer
 	8 Unspeakable Atrocioid
 	8 Fanatical Strength
 	8 Ancestral Vengeance
@@ -3147,6 +3646,11 @@
 	8 Enchanting Couple
 	8 Righteous Hellhounds
 	8 Lurking Dismolaat
+	8 Trip Sitter
+	8 Defense Contract
+	8 Renowned Speaker
+	8 Hot Tub Elemental
+	8 Farmer's Commune
 [wildcard(2)]
 	5 Heart's Allegiance
 	5 Giving Treefolk
@@ -3182,7 +3686,7 @@
 	5 Sanctum Devotee
 	5 Lovebug
 	5 Manic Pixie
-	5 Shordly, Screeching Chef
+	5 Shordlon, Screeching Chef
 	5 Newlywed Knights
 	5 Research Developer
 	5 Noble Firemage
@@ -3192,7 +3696,6 @@
 	5 Scrupulous Sentinel
 	5 Shadowy Supervisor
 	5 Slithering Ancient
-	5 Spider Drone
 	5 Springing Slasher
 	5 Spurn Advance
 	5 Sally Secrets, Salacious Stewardess
@@ -3223,11 +3726,11 @@
 	5 Mortuary Archives
 	5 Parliament Gates
 	5 Public Park
-	5 Ritual Grounds
+	5 Ritual Encampment
 	5 Whispering Woods
 	5 Remdesivir the Implanter
 	5 Tavern Brawl
-	5 Knight of the Scorvalant Order
+	5 Velkrom of the Scorvalant Order
 	5 Desecrator Dragon
 	5 Unflinching Heroics
 	5 Chleor, Resplendent Bard
@@ -3240,16 +3743,6 @@
 	5 Severed Spires
 	5 Harmonious Utopia
 	5 Abundant Oasis
-	5 Blood Crypt
-	5 Breeding Pool
-	5 Godless Shrine
-	5 Hallowed Fountain
-	5 Overgrown Tomb
-	5 Sacred Foundry
-	5 Steam Vents
-	5 Stomping Ground
-	5 Temple Garden
-	5 Watery Grave
 	5 Sunbathed Cyclist
 	5 Squirmy Squafoon
 	5 Joshua's Boar
@@ -3271,7 +3764,7 @@
 	5 Arnestella, Light Witch
 	5 Arnestella's Star-Crossed Love
 	5 Strict Upbringing
-	5 Velkro's Last Target
+	5 Velkro's Last Hit
 	5 Erotic Epistle
 	5 Widow's Grief
 	5 Induction Officer
@@ -3291,13 +3784,10 @@
 	5 Sanctum Diplomat
 	5 Josh, Nexus Architect
 	5 Echoes of the Fallen
-	5 Exarch of Inviolable Ordinance
 	5 Zealous Fervor
-	5 Consecrator of Casualties
 	5 Tragic Trade
 	5 Emissary of Resnata
 	5 Patricque, Puredeath Paladin
-	5 Remote Pilot Trainee
 	5 Mind Hacker
 	5 Celebrated Soloist
 	5 Winds of Inspiration
@@ -3328,8 +3818,7 @@
 	5 Scrap Sphinx
 	5 Nightly News
 	5 Mammoth Seal
-	5 Unruly Neighbor
-	5 Fastidious Fertilizer
+	5 Agag, Unruly Neighbor
 	5 Unspeakable Atrocioid
 	5 Fanatical Strength
 	5 Ancestral Vengeance
@@ -3343,11 +3832,10 @@
 	5 Youth-Cursed Mage
 	5 Foundry Helix
 	5 General Hoguely
-	5 Lovesong Recruiter
 	5 Duty Beyond Death
 	5 Bound by Grief
 	5 Grizzled Instructor
-	5 Young Adult Pyromancer
+	5 Young Pyro-Romancer
 	5 Encore Elemental
 	5 Smokecaster Agent
 	5 Fawning Flâneur
@@ -3381,7 +3869,6 @@
 	5 Sanctum Sigil
 	5 Smokeshape Mimic
 	5 Ostrich Hound
-	5 Gapewood Poacher
 	5 Silverscale Paladin
 	5 Bountiful Cycle
 	5 Archivist's Familiar
@@ -3423,8 +3910,73 @@
 	5 Syndicate Assembly
 	5 Resnata, Voice of Harmony
 	5 Eterna, the Elderwood
-	5 Velkro, Scorvalant Assassin
 	5 Balayria, Chancellor of Bats
 	5 Samiro, Sassy Snail
 	5 Bobo Bear, Forest Steward
 	5 Blib-Jib, the Immortal
+	5 Invictula, Infernal Acolyte
+	5 Spectral Manipulator
+	5 Morbid Opportunist
+	5 Cultivate
+	5 Extraction Mission
+	5 Nexus Commando
+	5 Trip Sitter
+	5 Prestigious Psychopomp
+	5 Rapture
+	5 Defense Contract
+	5 Factory Farm
+	5 Savior of Sinful Souls
+	5 Renowned Speaker
+	5 Siren Celebrities
+	5 Hot Tub Elemental
+	5 Deadline Detonator
+	5 Farmer's Commune
+	5 Wretched Child of Krustus
+	5 Blind Devotee
+	5 Solemn Simulacrum
+	5 Ramtamuel, Overlord's Offspring
+	5 Benjimus, Prodigal Son
+	5 Bloodthorn Goliath
+	5 Hellbent Hunter
+	5 Elesta's Calculated Confession
+	5 Shrimp Spy Network
+	5 Leyline of Machination
+	5 Tenacious Torturer
+	5 Nexus Sentinel
+	5 Elderwood Elder
+	5 Lovesong Battle-Choir
+	5 Orquinta's Undying Love
+	5 Zeexus, Nexus Shadowmaster
+	5 Kingdon, Feathered Sentinel
+	5 Baston, Fex and Rowl
+	5 Black-Winged Cherubim
+	5 Pandemonion the Bloodied
+	5 Exarch of Inviolable Ordinance
+	5 Fastidious Fertilizer
+	5 Dingonous Druid
+	5 Raging Earth
+	5 Iconoclast's Command
+	5 Spyder Drone
+	5 Biogenic Plague
+	5 Churno, Charnel Champion
+	5 Rhondeyla, Robotic Reanimator
+	5 Prospero, Prehistoric Poet
+	5 Omesmus, Apocalyptic Omen
+	5 Antoinitto, Master of Fingering
+	5 Sanctum Siegebreaker
+	5 Morph DNA
+	5 Pheonomeno's Firekin
+	5 Hercule, Restrained Hero
+	5 Millenielle, Rogue Agent
+	5 Gorgugont, Gargoyle Guru
+	5 Celestique, High Priestess
+	5 Arnilingus, Slammer Warden
+	5 Elva, Alluring Enchantress
+	5 Arven, Head Researcher
+	5 Grandmother Centipede
+	5 Doelina, Friend to All
+	5 Sage of Time
+	5 Council, to War!
+	5 Krustus, Intolerant Guardian
+	5 Delusion's Grasp
+	5 K-9 Unit
